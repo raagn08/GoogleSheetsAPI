@@ -2,7 +2,7 @@
 
 ### Use this snippet to generate a pickle file associated with the mentioned SCOPE(s)
 
-```
+```python
 #Define your scopes here
 SCOPE  = ['https://www.googleapis.com/auth/spreadsheets.readonly']
 
